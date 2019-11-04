@@ -1,0 +1,13 @@
+E:\Projects\TestRebbit\TestRebbit\bin\Debug\netcoreapp3.0\TestRebbit.exe
+E:\Projects\TestRebbit\TestRebbit\obj\Debug\netcoreapp3.0\TestRebbit.csprojAssemblyReference.cache
+E:\Projects\TestRebbit\TestRebbit\obj\Debug\netcoreapp3.0\TestRebbit.AssemblyInfoInputs.cache
+E:\Projects\TestRebbit\TestRebbit\obj\Debug\netcoreapp3.0\TestRebbit.AssemblyInfo.cs
+E:\Projects\TestRebbit\TestRebbit\bin\Debug\netcoreapp3.0\TestRebbit.deps.json
+E:\Projects\TestRebbit\TestRebbit\bin\Debug\netcoreapp3.0\TestRebbit.runtimeconfig.json
+E:\Projects\TestRebbit\TestRebbit\bin\Debug\netcoreapp3.0\TestRebbit.runtimeconfig.dev.json
+E:\Projects\TestRebbit\TestRebbit\bin\Debug\netcoreapp3.0\TestRebbit.dll
+E:\Projects\TestRebbit\TestRebbit\bin\Debug\netcoreapp3.0\TestRebbit.pdb
+E:\Projects\TestRebbit\TestRebbit\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+E:\Projects\TestRebbit\TestRebbit\obj\Debug\netcoreapp3.0\TestRebbit.csproj.CopyComplete
+E:\Projects\TestRebbit\TestRebbit\obj\Debug\netcoreapp3.0\TestRebbit.dll
+E:\Projects\TestRebbit\TestRebbit\obj\Debug\netcoreapp3.0\TestRebbit.pdb
